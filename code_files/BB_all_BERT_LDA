@@ -1,0 +1,58 @@
+tweets_nl = pd.read_csv('/Users/lydiafield/Desktop/Semestre 1/Digital Methods/bookbans-nolinks.csv')
+  
+docs=list(tweets_nl['Hit Sentence'])
+model = SentenceTransformer("all-MiniLM-L6-v2")
+document_vectors = model.encode(docs,show_progress_bar=True)
+umap_model = UMAP(n_neighbors=15, n_components=5, min_dist=0.01, metric='cosine', random_state=42)
+hdbscan_model = HDBSCAN(min_cluster_size=10, min_samples=5, metric='euclidean', cluster_selection_method='eom')
+vectorizer = CountVectorizer(stop_words='english')
+topic_model = BERTopic(
+    embedding_model=model,
+    umap_model=umap_model,
+    hdbscan_model=hdbscan_model,
+    vectorizer_model=vectorizer,
+    verbose=True
+).fit(docs, document_vectors)
+bar_topic = topic_model.visualize_barchart(top_n_topics=20,n_words=10)
+
+bar_topic
+
+topic_model.get_topic_info()
+
+corpus_text = tweets_nl['Hit Sentence'].values
+
+nlp = spacy.load("en_core_web_sm")
+documents_nlp = []
+for d in tqdm.tqdm(nlp.pipe(corpus_text,n_process=5),total=len(corpus_text)):
+    documents_nlp.append(d)
+
+docs2 = [[token.lemma_.lower() for token in doc if  token.is_alpha] for doc in documents_nlp]
+docs2 = [[token for token in doc if len(token) > 3] for doc in docs2]
+
+id2word = Dictionary(docs2)
+id2word.filter_extremes(no_below=20, no_above=0.1)
+
+corpus = [id2word.doc2bow(text) for text in docs2]
+
+lda_model = LdaModel(corpus=corpus,
+                   id2word=id2word,
+                   num_topics=20,
+                   passes=20)
+
+label_dict = {i: ', '.join([token for token, score in lda_model.show_topic(i, topn=10)]) for i in range(0, lda_model.num_topics)}
+for topic in label_dict:
+    print (topic,':\t', label_dict[topic])
+
+from gensim.models.coherencemodel import CoherenceModel
+cm = CoherenceModel(model=lda_model, corpus=corpus, coherence='u_mass')
+cm.get_coherence()
+
+docs_2_topics = lda_model[corpus]
+
+pyLDAvis.enable_notebook()
+pyLDAvis.gensim.prepare(lda_model, corpus, id2word, sort_topics=False)
+
+topic_2_docs={}
+for i, doc_2_topics in enumerate(docs_2_topics):
+    for (topic,strength) in doc_2_topics:
+        topic_2_docs.setdefault(topic,[]).append((i,strength))

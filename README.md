@@ -1,7 +1,8 @@
 # Partisan Discussion Around Book Bans in the United States
 
 Social Media Analysis Group Final Project
-Lydia Field, Joshua Weinert, Elias Schimkat, Haley Vandall
+
+**Lydia Field, Joshua Weinert, Elias Schimkat, Haley Vandall**
 
 ## Abstract
 

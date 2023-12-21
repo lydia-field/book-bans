@@ -1,4 +1,6 @@
-# SMA_Group_Project
+# Social Media Analysis
+## Partisan Discussion Around Book Bans in the United States
+
 Lydia Field, Joshua Weinert, Elias Schimkat, Haley Vandall
 
 ## Abstract

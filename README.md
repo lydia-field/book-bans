@@ -94,7 +94,7 @@ Conversation as a whole began to tick up in January of 2023, peaking at the end 
 
 **Full Discussion Posts & Engagement Over Time**
 
-!['Full Discussion Posts Over Time'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/all_tweets_time.png?raw=true)
+!['Full Discussion Posts Over Time'](https://github.com/lydia-field/book-bans/blob/main/data_images/all_tweets_time.png?raw=true)
 
 The first major spike in post volume occurred on March 24, 2023, when Florida passed the “Parents’ Bill of Rights” legislation, allowing parents more control over their children’s education and restricting the use of “personal pronouns” in public schools (Atterbury 2023). Posting volume peaked on May 24th after Florida schools banned Amanda Gormon’s 2020 inauguration poem (Chappell 2023). After a few months of limited discussion, posts spiked again on September 12, 2023 after Illinois passed legislation banning book bans in public schools and libraries (Savage 2023). In general, discussion volume was heavily dependent on relevant news moments. Book bans are incredibly controversial and polarizing in the United States, thereby drawing a continuous, but ever-changing conversation.
 
@@ -105,17 +105,17 @@ As expected, Florida drove the highest posting volume and engagement over the co
 
 **All States Post Counts**
 
-!['All States Posts'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/all_states_time_count.png?raw-true)
+!['All States Posts'](https://github.com/lydia-field/book-bans/blob/main/data_images/all_states_time_count.png?raw-true)
 
 **All States Engagements**
 
-!['All States Engagements'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/all_states_time_engage.png?raw-true)
+!['All States Engagements'](https://github.com/lydia-field/book-bans/blob/main/data_images/all_states_time_engage.png?raw-true)
 
 New York and Texas dominated discussion volume behind Florida. Discussion in Texas spiked in April 2023 when a public library in Llano considered closing down after a federal judge ordered banned books to return to the shelves (Serrano 2023). Discussion in New York remained elevated between February and May, spiking in May around news that the Brooklyn Public Library would open its entire digital collection to children ages 13-17 in an effort to combat censorship and book bans. Discussion in New York also commonly followed a similar trend to Florida, as engagers from New York often criticized DeSantis’ and others’ positions on book bans. The spike in discussion and engagement in June 2023 around Illinois’ ban on book bans contributed to spikes in national discussion (Savage 2023).
 
 **Florida & CA Posts & Engagements**
 
-!['FL & CA Posts'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/fl_ca_time.png?raw=true)
+!['FL & CA Posts'](https://github.com/lydia-field/book-bans/blob/main/data_images/fl_ca_time.png?raw=true)
 
 In comparing Florida and California directly, we can see that precise spike moments were distinct. California’s discussion did not spike in February and May like Florida’s, but rather spiked in April and July. Florida’s post volume and engagement tended to trend together, experiencing parallel spikes. California, on the other hand, often saw engagement that was disproportionately high compared to posting volume month over month. Most notably, engagement in April 2023 was nearly proportionately double the posting volume. This was driven by a barrage of tweets governor Gavin Newsom received, criticizing him for opposing book bans in Florida. Newsom’s [original tweet]([url](http://twitter.com/GavinNewsom/statuses/1646184293306339328)) received significant engagement as a result, and several of the [responses]([url](http://twitter.com/JeremyRedfernFL/statuses/1646325922033696771)) to it did as well, driving up overall monthly engagement. A similar spike occurred in July, when right-wing commenters responded to Gavin Newsom’s [tweet]([url](http://twitter.com/GavinNewsom/statuses/1675613117789896704)) supporting an anti-book-ban bookstore in Boise, Idaho.
 
@@ -124,7 +124,7 @@ In comparing Florida and California directly, we can see that precise spike mome
 
 **Blue & Red States Posts & Engagement**
 
-!['Red & Blue States'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/red_blue_time.png?raw-true)
+!['Red & Blue States'](https://github.com/lydia-field/book-bans/blob/main/data_images/red_blue_time.png?raw-true)
 
 When grouped, red states and blue states all saw elevated discussion volume between February and June 2023, with red state conversation peaking in May and Blue state conversation peaking in April. Red states generally saw higher discussion volume than blue states, but that began to shift towards the end of 2023. However, blue states tended to see higher engagement month over month. Blue states’ higher engagement numbers could imply that there is a level of fascination with right-wing viewpoints among a liberal audience. Florida still drives the majority of discussion across both groups.
 
@@ -137,7 +137,7 @@ Top keywords appearing in the overall conversation represent the context of the 
 
 **Top 20 Keywords - Full Discussion**
 
-!['All top 20'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/all_top_20.png?raw=true)
+!['All top 20'](https://github.com/lydia-field/book-bans/blob/main/data_images/all_top_20.png?raw=true)
 
 For the **full discussion**, the top topics, in order of coherence, are: 
 1. **Mass Shootings** (“guns”, “weapons”, “assault”, “shootings)
@@ -151,7 +151,7 @@ For the **full discussion**, the top topics, in order of coherence, are:
 
 **Full Discussion Topics**
 
-!['All Topics'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/alltweets_topics.png?raw=true)
+!['All Topics'](https://github.com/lydia-field/book-bans/blob/main/data_images/alltweets_topics.png?raw=true)
 
 The top topics for the overall conversation around book bans in the US follow common media narratives around the topic. Topics 1, 5, and 7 represent narratives used by liberals and those opposing book bans to push back. Book ban opposers often hit back on those advocating for them, criticizing the narrative of child safety, as many people on the right who support book bans also oppose gun control legislation. Liberals will often respond to conservatives by saying that mass shootings and unregulated guns are more of a threat to school children than books. Race and racism are also discussed by those opposing book bans, as they believe that discussions around race and racism should be part of public education, unlike those who support book bans. Finally, those opposing book bans often invoke the label “fascist” when discussing book ban supporters, accusing them of advocating for excessive government control over education and speech. 
 
@@ -166,7 +166,7 @@ The three other top topics discuss Illinois, a state which has banned book bans,
 
 **Top 20 Keywords - Blue States**
 
-!['Blue Top 20'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/blue_top_20.png?raw=true)
+!['Blue Top 20'](https://github.com/lydia-field/book-bans/blob/main/data_images/blue_top_20.png?raw=true)
 
 Top keywords used by **blue state** engagers tend to mirror those used in the overall conversation, but “Florida” and “@GavinNewsom” are uniquely common to blue states. This supports the finding that Florida is a common topic of conversation in general, and liberals from blue states often engage to criticize its politics. California governor Gavin Newsom is commonly referenced because of his staunch opposition to book bans and the strong support he receives from fellow Democrats.
 
@@ -175,7 +175,7 @@ Top keywords used by **blue state** engagers tend to mirror those used in the ov
 
 **Blue States Topics**
 
-!['Blue State Topics'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/blue_states_BERT.png?raw=true) 
+!['Blue State Topics'](https://github.com/lydia-field/book-bans/blob/main/data_images/blue_states_BERT.png?raw=true) 
 
 In **blue states**, the most common topics, in order of coherence, are:  
 1. **Illinois** (“illinois”, “pritzker”, “legislation”)
@@ -192,7 +192,7 @@ Generally speaking, **blue states** had a high frequency of words often used in 
 
 **Top 20 Keywords - Red States**
 
-!['Red Top 20'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/red_top_20.png?raw=true)
+!['Red Top 20'](https://github.com/lydia-field/book-bans/blob/main/data_images/red_top_20.png?raw=true)
 
 Top general keywords like “school” and “children” are also commonly used by **red states**, but mentions of “Florida” and “DeSantis” alone are notably more common in red states. Florida governor Ron DeSantis has become a bastion for the right in the book ban discussion, garnering significant media attention. Much of the discussion referencing Ron DeSantis tends to be critical, opposing his policies on book bans and censorship.
 
@@ -201,7 +201,7 @@ Top general keywords like “school” and “children” are also commonly used
 
 **Red States Topics**
 
-!['Red State Topics'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/red_states_BERT.png?raw-true)
+!['Red State Topics'](https://github.com/lydia-field/book-bans/blob/main/data_images/red_states_BERT.png?raw-true)
 
 In **red states**, the most common topics, in order of coherence, are: 
 1. **LGBTQ+/Pornography** (“queer”, “explicit”, “pornography”, “sexually”, “harmful”)
@@ -236,13 +236,13 @@ When directly comparing two sides of a topic, term frequencies can be more illum
 
 **Red vs Blue State Relative Term Frequencies**
 
-!['Red Blue Scattertext'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/red_blue_scattertext.png?raw=true)
+!['Red Blue Scattertext'](https://github.com/lydia-field/book-bans/blob/main/data_images/red_blue_scattertext.png?raw=true)
 
-The individual terms in this cluster are not surprising, as “book” and “ban” were query keywords. However, the common frequency of “women”, “liberty”, “lgbtq”, “black history”, “abortion”, and “censorship” are more telling. (These can be seen in the interactive version of the scattertext, linked [HERE]([url](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/red_blue_scatter.html))). Although the fact that both groups use these terms at a similar frequency implies convergence within the discussion, the partisan nature of the discussion as a whole and of these terms themselves tells a different story. The implication is that book ban opponents (generally in blue states) tend to use the justifications employed by book ban supporters (generally in red states) to express their explicit opposition to such bans. Additionally, many of these keywords employed by both groups reference other contentious political discussions (like “abortion” and “lgbtq”), implying that justifications for book bans stem from other existing political controversy. 
+The individual terms in this cluster are not surprising, as “book” and “ban” were query keywords. However, the common frequency of “women”, “liberty”, “lgbtq”, “black history”, “abortion”, and “censorship” are more telling. (These can be seen in the interactive version of the scattertext, linked [HERE]([url](https://github.com/lydia-field/book-bans/blob/main/data_images/red_blue_scatter.html))). Although the fact that both groups use these terms at a similar frequency implies convergence within the discussion, the partisan nature of the discussion as a whole and of these terms themselves tells a different story. The implication is that book ban opponents (generally in blue states) tend to use the justifications employed by book ban supporters (generally in red states) to express their explicit opposition to such bans. Additionally, many of these keywords employed by both groups reference other contentious political discussions (like “abortion” and “lgbtq”), implying that justifications for book bans stem from other existing political controversy. 
 
 **Top 10 Term Frequencies for Blue & Red States**
 
-!['Top Terms'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/top_terms_red_blue.png?raw=true)
+!['Top Terms'](https://github.com/lydia-field/book-bans/blob/main/data_images/top_terms_red_blue.png?raw=true)
 
 Terms used more by one group than the other also add to this story, illuminating key lexical differences between blue state and red state discussions. In red states, much of the frequent, individual (not used often by blue states) discussion involves specific bills legislating book bans, such as Texas House Bill 900 (Dey 2023). Red state discussion also tends to include mentions of book bans in specific counties, such as Duval County in Florida. For blue states, independently frequent terms include key state political leaders, like Secretary of State Alexei Giannoulias and Governor J.B. Pritzker in Illinois.
 
@@ -255,7 +255,7 @@ Tweet Count: **5,501**
 
 **Florida Topic Model**
 
-!['FL topics'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/FL_topics.png?raw=true)
+!['FL topics'](https://github.com/lydia-field/book-bans/blob/main/data_images/FL_topics.png?raw=true)
 
 The most common topics in tweets from Florida are: 
 1. **Florida Republican Officials** (“Trump”, “DeSantis”, “Fascist”)
@@ -268,7 +268,7 @@ Note: 2,949 Tweets about book banning containing 'DeSantis' alone!
 
 **Top 20 Keywords - Florida**
 
-!['FL words'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/fl_top_20.png?raw=true)
+!['FL words'](https://github.com/lydia-field/book-bans/blob/main/data_images/fl_top_20.png?raw=true)
 
 
 #### California
@@ -277,7 +277,7 @@ Tweet Count: **1,913**
 
 **California Topic Model**
 
-!['CA topics'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/ca_topics.png?raw=true)
+!['CA topics'](https://github.com/lydia-field/book-bans/blob/main/data_images/ca_topics.png?raw=true)
 
 In California, the most common topics are: 
 1. **Guns** (“Guns”, “Assault”, “Weapons”, “Children”, “Shootings”, “Mass”)
@@ -287,7 +287,7 @@ In California, the most common topics are:
 
 **Top 20 Keywords - California**
 
-!['CA words'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/ca_top_20.png?raw=true)
+!['CA words'](https://github.com/lydia-field/book-bans/blob/main/data_images/ca_top_20.png?raw=true)
   
 
 #### Florida & California Comparison
@@ -299,13 +299,13 @@ The inclusion of guns and school shootings as the most common topic in Californi
 
 **Florida & California Relative Term Frequencies**
 
-!['FL & CA Scatter'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/FL_CA_Scatter.png?raw=true)
+!['FL & CA Scatter'](https://github.com/lydia-field/book-bans/blob/main/data_images/FL_CA_Scatter.png?raw=true)
 
 The scatter text term frequency model comparing the conversations around Florida and California is very similar to the model comparing red states and blue states. This further enforces our decision to use Florida and California as case studies, and emphasizes the fact that these two states drive a significant portion of the overall partisan conversation. Like in the blue & red states models, the most frequent terms from both groups include query keywords “book” and “ban”. Unsurprisingly, California governor Gavin Newsom was frequently mentioned in the California conversation while Florida governor Ron DeSantis was frequently mentioned in the Florida conversation. “Guns”, “drag”, and “maga” were frequently used in both discussions, but slightly more so for California while “abortion”, “race”, and “lgbtw” were frequently used in both discussions, but slightly more for Florida. 
 
 **Top 10 Term Frequencies for Florida & California**
 
-!['Fl & CA Terms'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/top_terms_fl_ca.png?raw=true)
+!['Fl & CA Terms'](https://github.com/lydia-field/book-bans/blob/main/data_images/top_terms_fl_ca.png?raw=true)
 
 Top scored keywords for California include California Superintendent of Public Instruction Tony Thurmond and discussions of “segregated campuses”. For Florida, mentions of Florida schools, Duval County, and a “book ban hoax” were the most frequent keywords. The “book ban hoax” refers to Florida governor Ron DeSantis’ statement claiming that book bans being reported in the media were a “hoax” (Friedman, 2023).
 
@@ -316,8 +316,8 @@ In our analysis of Florida and California, one thing that repeatedly came up was
 
 In addition to debate between constituents, we also noticed debate in Tweets directly from Governors DeSantis and Newsom. Governor Newsom has posted several Tweets directly mentioning Governor DeSantis and criticizing his actions. Governor DeSantis, on the other hand, has responded to many of these Tweets, criticizing Newsom. In either case, constituents from the respective state would oftentimes flood their governor's comments with support, and flood the opposing governor's comments with criticism.
 
-!['Gavin Tweet'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/Gavin_tweet.png?raw=true)
-!['Cali Tweet'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/calitweet.png?raw=true)
+!['Gavin Tweet'](https://github.com/lydia-field/book-bans/blob/main/data_images/Gavin_tweet.png?raw=true)
+!['Cali Tweet'](https://github.com/lydia-field/book-bans/blob/main/data_images/calitweet.png?raw=true)
 
 
 ## Conclusions

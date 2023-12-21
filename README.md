@@ -92,7 +92,7 @@ We chose to focus on Florida and California as they are the two states of their 
 
 Conversation as a whole began to tick up in January of 2023, peaking at the end of May. Discussion declined over the course of the summer, likely because public schools, the biggest context for debate over book bans, were not in session. Discussion saw some moderate spikes in September and again in mid November. Engagement followed a similar trend, although at a much lower volume. On January 18, 2023, a tweet from Stephen King condemning bans on books went viral, driving a massive, anomalous spike in engagement. Two of the largest spikes were driven by discussions of book bans in Florida. 
 
-**Full Discussion Posts & Engagement Over Time**\n
+**Full Discussion Posts & Engagement Over Time**
 
 !['Full Discussion Posts Over Time'](https://github.com/joshua-weinert/SMA_Group_Project/blob/main/data_images/all_tweets_time.png?raw=true)
 
